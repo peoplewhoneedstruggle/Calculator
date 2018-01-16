@@ -2,6 +2,7 @@
  * index.js
  * - All our useful JS goes here, awesome!
  */
+
 var t="%"||"+"||"-"||"*"||"/";
 
  var result="";
